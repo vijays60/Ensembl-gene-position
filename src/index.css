@@ -1,0 +1,13 @@
+
+html,
+body {
+  overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+.App-logo{
+    width:50px;
+    max-height:50px;
+}
+
+.shadow-sm {
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+}
