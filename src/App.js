@@ -14,7 +14,7 @@ function App() {
         </a>
     </nav>
     <main role="main" className="mt-3 container">  
-      <Gene />     
+      <Gene />
     </main>
     </>
   );
